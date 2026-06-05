@@ -1,0 +1,185 @@
+{
+  "Alice": {
+    "Dieciseisavos": {
+      "clasificados": [
+        "Argentina",
+        "Saudi Arabia",
+        "Mexico",
+        "Poland"
+      ],
+      "ganadores": [
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    "Octavos": {
+      "clasificados": [
+        "Argentina",
+        "Mexico",
+        "France",
+        "Denmark"
+      ],
+      "ganadores": [
+        1,
+        2,
+        1,
+        1
+      ]
+    },
+    "Cuartos": {
+      "clasificados": [
+        "Argentina",
+        "France"
+      ],
+      "ganadores": [
+        1,
+        2
+      ]
+    },
+    "Semifinales": {
+      "clasificados": [
+        "Argentina",
+        "France"
+      ],
+      "ganadores": [
+        1
+      ]
+    },
+    "Final": {
+      "clasificados": [
+        "Argentina",
+        "Netherlands"
+      ],
+      "ganadores": [
+        1
+      ]
+    },
+    "CuadroDeHonor": {
+      "1": "Argentina",
+      "2": "Netherlands",
+      "3": "France"
+    },
+    "EquiposEstrella": [
+      "Argentina",
+      "France"
+    ]
+  },
+  "Bob": {
+    "Dieciseisavos": {
+      "clasificados": [
+        "Argentina",
+        "Mexico",
+        "France",
+        "Netherlands"
+      ],
+      "ganadores": [
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    "Octavos": {
+      "clasificados": [
+        "Argentina",
+        "France",
+        "Netherlands",
+        "Denmark"
+      ],
+      "ganadores": [
+        2,
+        1,
+        1,
+        2
+      ]
+    },
+    "Cuartos": {
+      "clasificados": [
+        "France",
+        "Denmark"
+      ],
+      "ganadores": [
+        1,
+        2
+      ]
+    },
+    "Final": {
+      "clasificados": [
+        "France",
+        "Denmark"
+      ],
+      "ganadores": [
+        1
+      ]
+    },
+    "CuadroDeHonor": {
+      "1": "France",
+      "2": "Denmark",
+      "3": "Argentina"
+    },
+    "EquiposEstrella": [
+      "France",
+      "Denmark"
+    ]
+  },
+  "Carol": {
+    "Dieciseisavos": {
+      "clasificados": [
+        "Argentina",
+        "Poland",
+        "France",
+        "Denmark"
+      ],
+      "ganadores": [
+        1,
+        2,
+        1,
+        1
+      ]
+    },
+    "Octavos": {
+      "clasificados": [
+        "Argentina",
+        "Mexico",
+        "France",
+        "Netherlands"
+      ],
+      "ganadores": [
+        1,
+        2,
+        2,
+        1
+      ]
+    },
+    "Cuartos": {
+      "clasificados": [
+        "Mexico",
+        "Netherlands"
+      ],
+      "ganadores": [
+        1,
+        2
+      ]
+    },
+    "Final": {
+      "clasificados": [
+        "Argentina",
+        "Netherlands"
+      ],
+      "ganadores": [
+        2
+      ]
+    },
+    "CuadroDeHonor": {
+      "1": "Netherlands",
+      "2": "Argentina",
+      "3": "Mexico"
+    },
+    "EquiposEstrella": [
+      "Netherlands",
+      "Argentina"
+    ]
+  }
+}
