@@ -1,0 +1,122 @@
+{
+  "Alice": {
+    "PartidosGrupos": {
+      "Match 1": [
+        {
+          "countries": "Argentina vs Saudi Arabia",
+          "winner": 1,
+          "goals_home": 3,
+          "goals_away": 1
+        },
+        {
+          "countries": "Mexico vs Poland",
+          "winner": 1,
+          "goals_home": 1,
+          "goals_away": 0
+        }
+      ],
+      "Match 2": [
+        {
+          "countries": "France vs Denmark",
+          "winner": 1,
+          "goals_home": 2,
+          "goals_away": 1
+        }
+      ]
+    },
+    "PosicionesGrupos": {
+      "A": {
+        "1": "Argentina",
+        "2": "Saudi Arabia",
+        "3": "Mexico",
+        "4": "Poland"
+      },
+      "B": {
+        "1": "France",
+        "2": "Denmark",
+        "3": "Netherlands",
+        "4": "Tunisia"
+      }
+    }
+  },
+  "Bob": {
+    "PartidosGrupos": {
+      "Match 1": [
+        {
+          "countries": "Argentina vs Saudi Arabia",
+          "winner": 1,
+          "goals_home": 2,
+          "goals_away": 0
+        },
+        {
+          "countries": "Mexico vs Poland",
+          "winner": "X",
+          "goals_home": 1,
+          "goals_away": 1
+        }
+      ],
+      "Match 2": [
+        {
+          "countries": "France vs Denmark",
+          "winner": 1,
+          "goals_home": 3,
+          "goals_away": 0
+        }
+      ]
+    },
+    "PosicionesGrupos": {
+      "A": {
+        "1": "Argentina",
+        "2": "Mexico",
+        "3": "Saudi Arabia",
+        "4": "Poland"
+      },
+      "B": {
+        "1": "France",
+        "2": "Netherlands",
+        "3": "Denmark",
+        "4": "Tunisia"
+      }
+    }
+  },
+  "Carol": {
+    "PartidosGrupos": {
+      "Match 1": [
+        {
+          "countries": "Argentina vs Saudi Arabia",
+          "winner": 1,
+          "goals_home": 4,
+          "goals_away": 0
+        },
+        {
+          "countries": "Mexico vs Poland",
+          "winner": 2,
+          "goals_home": 0,
+          "goals_away": 2
+        }
+      ],
+      "Match 2": [
+        {
+          "countries": "France vs Denmark",
+          "winner": "X",
+          "goals_home": 1,
+          "goals_away": 1
+        }
+      ]
+    },
+    "PosicionesGrupos": {
+      "A": {
+        "1": "Argentina",
+        "2": "Poland",
+        "3": "Mexico",
+        "4": "Saudi Arabia"
+      },
+      "B": {
+        "1": "France",
+        "2": "Denmark",
+        "3": "Netherlands",
+        "4": "Tunisia"
+      }
+    }
+  }
+}
